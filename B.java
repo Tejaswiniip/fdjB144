@@ -1,0 +1,4 @@
+publc class B
+{
+
+}
